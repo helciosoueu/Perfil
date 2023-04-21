@@ -24,5 +24,21 @@ padding:20px 0;
         align-items: center;
     }
     .logo-texto{
-        
+margin-left: 20px;
+color: white;
     }
+    .menu li a{
+        display: inline-block;
+        margin: 0 10px;
+        }
+        .menu li a{
+            font-size: 24px;
+            text-decoration: none;
+            color: white;
+            text-transform: uppercase;
+            padding: 10px 15px;
+            border-radius: 15px;
+        }
+        .menu li a: hover{
+            background-color: rgba (100, 100,100,0,5);
+        }
